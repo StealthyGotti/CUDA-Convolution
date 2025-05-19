@@ -1,4 +1,4 @@
-# 2D Convolution in CUDA
+# University Project - 2D Convolution in CUDA
 
 ## Overview
 
